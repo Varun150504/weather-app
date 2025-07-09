@@ -24,6 +24,7 @@ Built using **HTML, CSS, and JavaScript**, this app shows temperature, weather d
 3.Enter a city name and click "Get Weather" to see the result.
 
 
+
 📁 Files
 index.html – UI structure
 
@@ -35,7 +36,9 @@ README.md – Project documentation
 
 
 
+
 🛠️ Technologies Used
+
 HTML – for structure
 
 CSS – for styling
@@ -46,9 +49,11 @@ OpenWeatherMap API – for real-time data
 
 
 
+
 📜 License
 
 Licensed under the MIT License
+
 
 
 
