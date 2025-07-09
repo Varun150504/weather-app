@@ -46,6 +46,9 @@ JavaScript – for logic
 OpenWeatherMap API – for real-time data
 
 
+[Download the Project Presentation (PPT)](./Weather_App_Presentation.pptx)
+
+
 
 📜 License
 
