@@ -22,6 +22,7 @@ Built using **HTML, CSS, and JavaScript**, this app shows temperature, weather d
    const apiKey = 'YOUR_API_KEY';
 2.Open index.html in your browser.
 3.Enter a city name and click "Get Weather" to see the result.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📁 Files
